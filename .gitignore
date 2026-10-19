@@ -2,10 +2,10 @@ __pycache__/
 *.py[cod]
 .venv/
 .DS_Store
+.vscode/
 
 # working document, kept out of version control
 RESEARCH_PLAN.md
 
 # local-only material (archives, environments)
 .local/
-.venv/
