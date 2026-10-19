@@ -1,0 +1,15 @@
+{
+  "reconstruction": {
+    "train": 0.9642490744590759,
+    "val": 0.9103779792785645,
+    "test": 0.9066199660301208,
+    "cf": 0.8776769638061523
+  },
+  "active_per_example": 8.0,
+  "never_on": 0,
+  "n_latent": 256,
+  "k": 8,
+  "match_true_spots": 0.6895590424537659,
+  "match_random": 0.5047615766525269,
+  "n_spots": 25
+}

@@ -1,0 +1,15 @@
+{
+  "gif": "pattern.gif",
+  "grid": 64,
+  "F": 0.022,
+  "k": 0.059,
+  "dt": 1.0,
+  "seed": 0,
+  "warm_up_steps": 2000,
+  "animated_steps": 4000,
+  "steps_per_frame": 50,
+  "frames": 80,
+  "fps": 12,
+  "blobs": 26,
+  "coverage": 0.1591796875
+}

@@ -1,0 +1,26 @@
+{
+  "0.10": {
+    "gif": "disc_0.10.gif",
+    "radius": 4,
+    "amplitude": 0.1,
+    "steps": 900,
+    "steps_per_frame": 15,
+    "frames": 61,
+    "fps": 12,
+    "survived": false,
+    "final_peak": 4.21282832689798e-35,
+    "final_coverage": 0.0
+  },
+  "0.20": {
+    "gif": "disc_0.20.gif",
+    "radius": 4,
+    "amplitude": 0.2,
+    "steps": 900,
+    "steps_per_frame": 15,
+    "frames": 61,
+    "fps": 12,
+    "survived": true,
+    "final_peak": 0.3495576528943284,
+    "final_coverage": 0.048828125
+  }
+}

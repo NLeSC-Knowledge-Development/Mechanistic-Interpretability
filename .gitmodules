@@ -1,0 +1,12 @@
+[submodule "internal_projects/project_1"]
+	path = internal_projects/project_1
+	url = git@github.com:NLeSC-Knowledge-Development/SAE-spot.git
+[submodule "internal_projects/project_2"]
+	path = internal_projects/project_2
+	url = git@github.com:NLeSC-Knowledge-Development/SAE-MNIST.git
+[submodule "internal_projects/project_3"]
+	path = internal_projects/project_3
+	url = git@github.com:NLeSC-Knowledge-Development/SAE-Lorenz96.git
+[submodule "internal_projects/project_4"]
+	path = internal_projects/project_4
+	url = git@github.com:NLeSC-Knowledge-Development/SAE-GrayScott.git

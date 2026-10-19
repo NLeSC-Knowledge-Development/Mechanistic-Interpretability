@@ -1,0 +1,8 @@
+{
+  "train": 0.989,
+  "val": 0.93,
+  "test": 0.925,
+  "cf": 0.7,
+  "average_strength_gap_middle": 0.7954392433166504,
+  "average_strength_gap_missed": 0.8231890201568604
+}

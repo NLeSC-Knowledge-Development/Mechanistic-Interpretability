@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.venv/
+.DS_Store
+
+# working document, kept out of version control
+RESEARCH_PLAN.md

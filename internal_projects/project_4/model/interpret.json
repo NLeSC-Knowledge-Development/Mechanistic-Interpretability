@@ -1,0 +1,133 @@
+{
+  "layer": "blocks.2",
+  "predicted_radius": 7,
+  "offsets": [
+    -11,
+    -10,
+    -9,
+    -8,
+    -7,
+    -6,
+    -5,
+    -4,
+    -3,
+    -2,
+    -1,
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+  ],
+  "response_size": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.01875772513449192,
+    0.13771836459636688,
+    0.05195242166519165,
+    0.34563586115837097,
+    0.12325447052717209,
+    0.5994024276733398,
+    0.9172210097312927,
+    3.8331611156463623,
+    0.6865633726119995,
+    0.4278755784034729,
+    0.09271636605262756,
+    0.4604965150356293,
+    0.07748588174581528,
+    0.07529596984386444,
+    0.010209762491285801,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "response_inside": 0.5238497894878189,
+  "response_outside": 0.0,
+  "local_quantities": [
+    "the field u",
+    "the field v",
+    "the reaction term u*v^2",
+    "what v is doing right now",
+    "the curvature of v",
+    "how much spot is around here",
+    "how far the nearest blob is",
+    "how worried the patch is (its coverage)",
+    "what v will do next",
+    "the grid's average (control)"
+  ],
+  "local_quantity_latent_r2": [
+    0.7930049501495724,
+    0.8423725496591183,
+    0.8174166912476839,
+    0.5098918660366003,
+    0.5101114473561715,
+    0.7213341780810598,
+    0.5817109078731336,
+    0.30513672912576073,
+    0.1281198951725755,
+    0.012988096437265062
+  ],
+  "local_quantity_dictionary_r2": [
+    0.9968716992411388,
+    0.9970003920678672,
+    0.9933772715048482,
+    0.9640433017273226,
+    0.9594077084566236,
+    0.9827433360509147,
+    0.7953858009030544,
+    0.701431048317235,
+    0.855669121889789,
+    0.39710490981710855
+  ],
+  "local_quantity_layer_r2": [
+    0.9911053499566151,
+    0.9915387494928722,
+    0.9778189074958268,
+    0.863610364295976,
+    0.8582007285034008,
+    0.9608996682091563,
+    0.7184475745381778,
+    0.5576805170783028,
+    0.7776657995664055,
+    0.307185090158159
+  ],
+  "local_quantity_latent": {
+    "the field u": 485,
+    "the field v": 9,
+    "the reaction term u*v^2": 9,
+    "what v is doing right now": 413,
+    "the curvature of v": 9,
+    "how much spot is around here": 485,
+    "how far the nearest blob is": 400,
+    "how worried the patch is (its coverage)": 228,
+    "what v will do next": 9,
+    "the grid's average (control)": 409
+  },
+  "events": [
+    "a blob is about to be born here",
+    "the blob here is about to die"
+  ],
+  "event_auroc": [
+    0.6944066800075787,
+    0.7472338576185256
+  ],
+  "event_auroc_of_local_spot": [
+    0.43401788012214076,
+    0.16511017768674827
+  ],
+  "event_base_rate": [
+    0.01496978498931624,
+    0.05093357705662393
+  ],
+  "principal_room_95": 8
+}

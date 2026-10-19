@@ -1,0 +1,237 @@
+{
+  "steps": 8000,
+  "cells": 64,
+  "seeds": 25,
+  "F": [
+    0.014,
+    0.022,
+    0.03,
+    0.038,
+    0.046,
+    0.054
+  ],
+  "k": [
+    0.045,
+    0.052,
+    0.059,
+    0.066
+  ],
+  "rows": [
+    {
+      "F": 0.014,
+      "k": 0.045,
+      "coverage": 0.0,
+      "spots": 0,
+      "spacing": 2.0,
+      "half_life": 60.0,
+      "verdict": "decayed"
+    },
+    {
+      "F": 0.014,
+      "k": 0.052,
+      "coverage": 0.0,
+      "spots": 0,
+      "spacing": 2.0,
+      "half_life": 60.0,
+      "verdict": "decayed"
+    },
+    {
+      "F": 0.014,
+      "k": 0.059,
+      "coverage": 0.0,
+      "spots": 0,
+      "spacing": 2.0,
+      "half_life": 60.0,
+      "verdict": "decayed"
+    },
+    {
+      "F": 0.014,
+      "k": 0.066,
+      "coverage": 0.0,
+      "spots": 0,
+      "spacing": 2.0,
+      "half_life": 60.0,
+      "verdict": "decayed"
+    },
+    {
+      "F": 0.022,
+      "k": 0.045,
+      "coverage": 0.0,
+      "spots": 0,
+      "spacing": 64.0,
+      "half_life": 40.0,
+      "verdict": "decayed"
+    },
+    {
+      "F": 0.022,
+      "k": 0.052,
+      "coverage": 0.0,
+      "spots": 0,
+      "spacing": 2.0,
+      "half_life": 60.0,
+      "verdict": "decayed"
+    },
+    {
+      "F": 0.022,
+      "k": 0.059,
+      "coverage": 0.103759765625,
+      "spots": 29,
+      "spacing": 10.0,
+      "half_life": 360.0,
+      "verdict": "multiplying"
+    },
+    {
+      "F": 0.022,
+      "k": 0.066,
+      "coverage": 0.0,
+      "spots": 0,
+      "spacing": 2.0,
+      "half_life": 60.0,
+      "verdict": "decayed"
+    },
+    {
+      "F": 0.03,
+      "k": 0.045,
+      "coverage": 1.0,
+      "spots": 207,
+      "spacing": 64.0,
+      "half_life": 40.0,
+      "verdict": "filled"
+    },
+    {
+      "F": 0.03,
+      "k": 0.052,
+      "coverage": 0.0,
+      "spots": 0,
+      "spacing": 50.0,
+      "half_life": 40.0,
+      "verdict": "decayed"
+    },
+    {
+      "F": 0.03,
+      "k": 0.059,
+      "coverage": 0.2646484375,
+      "spots": 67,
+      "spacing": 10.0,
+      "half_life": 700.0,
+      "verdict": "changing"
+    },
+    {
+      "F": 0.03,
+      "k": 0.066,
+      "coverage": 0.0,
+      "spots": 0,
+      "spacing": 2.0,
+      "half_life": 80.0,
+      "verdict": "decayed"
+    },
+    {
+      "F": 0.038,
+      "k": 0.045,
+      "coverage": 1.0,
+      "spots": 183,
+      "spacing": 42.0,
+      "half_life": 40.0,
+      "verdict": "filled"
+    },
+    {
+      "F": 0.038,
+      "k": 0.052,
+      "coverage": 1.0,
+      "spots": 182,
+      "spacing": 12.0,
+      "half_life": 40.0,
+      "verdict": "filled"
+    },
+    {
+      "F": 0.038,
+      "k": 0.059,
+      "coverage": 0.4326171875,
+      "spots": 92,
+      "spacing": 10.0,
+      "half_life": 660.0,
+      "verdict": "changing"
+    },
+    {
+      "F": 0.038,
+      "k": 0.066,
+      "coverage": 0.149658203125,
+      "spots": 23,
+      "spacing": 10.0,
+      "half_life": 900.0,
+      "verdict": "changing"
+    },
+    {
+      "F": 0.046,
+      "k": 0.045,
+      "coverage": 1.0,
+      "spots": 184,
+      "spacing": 56.0,
+      "half_life": 40.0,
+      "verdict": "filled"
+    },
+    {
+      "F": 0.046,
+      "k": 0.052,
+      "coverage": 1.0,
+      "spots": 190,
+      "spacing": 50.0,
+      "half_life": 40.0,
+      "verdict": "filled"
+    },
+    {
+      "F": 0.046,
+      "k": 0.059,
+      "coverage": 1.0,
+      "spots": 179,
+      "spacing": 44.0,
+      "half_life": 80.0,
+      "verdict": "filled"
+    },
+    {
+      "F": 0.046,
+      "k": 0.066,
+      "coverage": 0.1826171875,
+      "spots": 27,
+      "spacing": 10.0,
+      "half_life": 760.0,
+      "verdict": "changing"
+    },
+    {
+      "F": 0.054,
+      "k": 0.045,
+      "coverage": 1.0,
+      "spots": 185,
+      "spacing": 48.0,
+      "half_life": 40.0,
+      "verdict": "filled"
+    },
+    {
+      "F": 0.054,
+      "k": 0.052,
+      "coverage": 1.0,
+      "spots": 189,
+      "spacing": 48.0,
+      "half_life": 60.0,
+      "verdict": "filled"
+    },
+    {
+      "F": 0.054,
+      "k": 0.059,
+      "coverage": 1.0,
+      "spots": 200,
+      "spacing": 64.0,
+      "half_life": 80.0,
+      "verdict": "filled"
+    },
+    {
+      "F": 0.054,
+      "k": 0.066,
+      "coverage": 0.0,
+      "spots": 0,
+      "spacing": 2.0,
+      "half_life": 40.0,
+      "verdict": "decayed"
+    }
+  ]
+}
