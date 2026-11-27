@@ -8,6 +8,7 @@ Experiments developed inside this project.
 | `project_2` | [SAE-MNIST](https://github.com/NLeSC-Knowledge-Development/SAE-MNIST) | SAE on MNIST classifiers |
 | `project_3` | [SAE-Lorenz96](https://github.com/NLeSC-Knowledge-Development/SAE-Lorenz96) | SAE on a Lorenz-96 emulator |
 | `project_4` | [SAE-GrayScott](https://github.com/NLeSC-Knowledge-Development/SAE-GrayScott) | SAE on a Gray-Scott emulator |
+| `project_4/new_feature_push_analysis` | part of [SAE-GrayScott](https://github.com/NLeSC-Knowledge-Development/SAE-GrayScott) | Two-regime Gray-Scott: stick features, feature push and matched `v` controls |
 
 Each project is a submodule with its own history, dependencies and
 `.gitignore`.
